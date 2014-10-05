@@ -106,8 +106,9 @@ img.grayscale {
 }
 
 .header {
-  height: 80%;
-  background: #f68076 url('http://www.bootply.com/assets/example/pt_topo_l.png') repeat center center fixed;
+  height: 90%;
+  background: url('http://i.imgur.com/iPNwdsY.jpg') repeat center center fixed;
+    background-size: 2691px 1794px
 }
 
 /* use alt in navbar and header for different color */
@@ -175,7 +176,7 @@ img.grayscale {
   padding-top:7%;
   height: 100%;
   width: 100%;
-  background: url('http://www.bootply.com/assets/example/bg_suburb.jpg') no-repeat center center fixed; 
+  background: url('http://i.imgur.com/RuTtN7m.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
