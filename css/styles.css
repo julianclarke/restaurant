@@ -108,9 +108,14 @@ img.grayscale {
 }
 
 .header {
-  height: 90%;
+  height: 100%;
   background: url('http://i.imgur.com/iPNwdsY.jpg') repeat center center fixed;
     background-size: 2691px 1794px
+}
+
+.header .vert {
+vertical-align: middle;
+    
 }
 
 /* use alt in navbar and header for different color */
