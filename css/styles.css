@@ -52,6 +52,7 @@ img.grayscale {
 }
 
 .vert {
+    align-content: center;
   vertical-align: middle;
   width:100%;
   padding-top:4%;
